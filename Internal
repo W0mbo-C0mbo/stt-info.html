@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+<html>
 	<head>
 	<style> 
 		h1 {  color:rgb(255, 0, 0); text-align: center;}
@@ -46,4 +47,4 @@ The United States Virgin Islands is the only place under United States jurisdict
 </ul>
 
 </body>
-
+</html>
